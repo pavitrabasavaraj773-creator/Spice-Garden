@@ -1,0 +1,6 @@
+{
+  "name": "Spice Garden Restaurant",
+  "description": "Modern, elegant multi-cuisine restaurant website for Spice Garden in Hubballi, Karnataka, featuring interactive menu, online ordering cart, table reservations, today's specials, gallery lightbox, and reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
